@@ -4,5 +4,6 @@
 - 💞️ I’m looking to grow together
 - 😄 Pronouns: let's do it
 
+![Uploading fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels.gif…]()
 
-![MEDIA-firewatch-c](https://github.com/user-attachments/assets/ad86997f-3335-4470-8fe8-c14c31427b04)
+
