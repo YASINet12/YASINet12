@@ -16,21 +16,46 @@
 
 ### 🎨 Frontend  
 <div style="display: flex; justify-content: center; gap: 15px;">
-  <img class="tech-icon" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img class="tech-icon" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img class="tech-icon" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" 
+       style="border-radius: 50%; transition: transform 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
+       style="border-radius: 50%; transition: transform 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" 
+       style="border-radius: 50%; transition: transform 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" 
+       onmouseout="this.style.transform='scale(1)'" />
 </div>
 
 ### ⚙️ Backend  
 <div style="display: flex; justify-content: center; gap: 15px;">
-  <img class="tech-icon" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img class="tech-icon" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" 
+       style="border-radius: 50%; transition: transform 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" 
+       style="border-radius: 50%; transition: transform 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" 
+       onmouseout="this.style.transform='scale(1)'" />
 </div>
 
 ### 🗄️ Databases  
 <div style="display: flex; justify-content: center; gap: 15px;">
-  <img class="tech-icon" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img class="tech-icon" src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" 
+       style="border-radius: 50%; transition: transform 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" 
+       style="border-radius: 50%; transition: transform 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" 
+       onmouseout="this.style.transform='scale(1)'" />
 </div>
 
 ---
@@ -46,28 +71,24 @@
 ## 🎯 Let's Connect!  
 
 <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank">
-    <img class="tech-icon" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+         style="border-radius: 50%; transition: transform 0.3s ease-in-out;" 
+         onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" 
+         onmouseout="this.style.transform='scale(1)'" />
 </a>  
 <a href="https://github.com/Yassine" target="_blank">
-    <img class="tech-icon" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" 
+         style="border-radius: 50%; transition: transform 0.3s ease-in-out;" 
+         onmouseover="this.style.transform='scale(1.1) rotate(5deg)'" 
+         onmouseout="this.style.transform='scale(1)'" />
 </a>  
 
 ---
 
-✨ **"Code with passion, learn with curiosity!"** ✨ 
-<style>
-  .tech-icon {
-    border-radius: 50%;
-    transition: transform 0.3s ease-in-out;
-  }
-
-  .tech-icon:hover {
-    transform: scale(1.1) rotate(5deg);
-  }
-</style>
-
+✨ **"Code with passion, learn with curiosity!"** ✨  
 
 </div>
+
 
 
 
