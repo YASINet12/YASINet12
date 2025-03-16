@@ -54,10 +54,7 @@
 
 ---
 
-✨ **"Code with passion, learn with curiosity!"** ✨  
-
-</div>
-
+✨ **"Code with passion, learn with curiosity!"** ✨ 
 <style>
   .tech-icon {
     border-radius: 50%;
@@ -68,6 +65,10 @@
     transform: scale(1.1) rotate(5deg);
   }
 </style>
+
+
+</div>
+
 
 
 
