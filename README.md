@@ -1,6 +1,5 @@
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/b5a06e50-fe4c-4646-afca-45fd40cba56e)
-<center>
-
+<div style="text-align: center;">
   ## 🌍 Passionate About Web Development  
 
   🎯 **Exploring the world of web development**  
@@ -78,7 +77,8 @@
 
   ✨"Code with passion, learn with curiosity!"✨  
 
-</center>
+</div>
+
 
 
 
