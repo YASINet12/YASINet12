@@ -1,14 +1,15 @@
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/b5a06e50-fe4c-4646-afca-45fd40cba56e)
 
-# 👋 Hi, I’m **Yassine**
+<h1 align="center">👋 Hi, I’m <b>Yassine</b></h1>
+
+---
 
 ## 🌍 Passionate About Web Development
-
 <p align="center">
-  🎯 **Exploring the world of web development**  
-  📚 Currently **learning Digital Development**  
-  🤝 Open to **collaborations & new challenges**  
-  🔥 **Let’s build something great together!**
+  🎯 <b>Exploring the world of web development</b><br>
+  📚 Currently <b>learning Digital Development</b><br>
+  🤝 Open to <b>collaborations & new challenges</b><br>
+  🔥 <b>Let’s build something great together!</b>
 </p>
 
 ---
@@ -45,17 +46,15 @@
 ---
 
 ## ⚡ Problem-Solving & Optimization
-
 <p align="center">
-  ✔️ **Learning Data Structures & Algorithms**  
-  ✔️ **Practicing Optimized MySQL Queries**  
-  ✔️ **Focusing on Code Performance & Efficiency**
+  ✔️ <b>Learning Data Structures & Algorithms</b><br>
+  ✔️ <b>Practicing Optimized MySQL Queries</b><br>
+  ✔️ <b>Focusing on Code Performance & Efficiency</b>
 </p>
 
 ---
 
 ## 🎯 Let's Connect!
-
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -68,7 +67,7 @@
 ---
 
 <p align="center">
-  ✨"Code with passion, learn with curiosity!"✨
+  ✨<b>"Code with passion, learn with curiosity!"</b>✨
 </p>
 
 
