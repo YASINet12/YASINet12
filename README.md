@@ -1,5 +1,5 @@
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/b5a06e50-fe4c-4646-afca-45fd40cba56e)
-<div style=" center">
+<center>
 
   ## 🌍 Passionate About Web Development  
 
@@ -43,8 +43,6 @@
 
   ## 💬 Favorite Languages & Tools  
 
-  Here are some of my **favorite** programming languages and tools that I enjoy working with:
-
   <div style="display: flex; justify-content: center; gap: 15px; align-items: center; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 50%;" />
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 50%;" />
@@ -80,7 +78,8 @@
 
   ✨"Code with passion, learn with curiosity!"✨  
 
-</div>
+</center>
+
 
 
 
