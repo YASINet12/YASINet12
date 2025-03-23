@@ -54,7 +54,7 @@
 
 ## 🎯 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank">
+  <a href="https://www.linkedin.com/in/yasine-et-tahery-159790324/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BvDLel9BsRJGE5ZiouUtneQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
   <a href="https://github.com/Yassine" target="_blank">
