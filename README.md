@@ -10,7 +10,6 @@
   🔥 <b>Let’s build something great together!</b>
 </p>
 ---
-
 ## 🔧 Technologies & Tools
 
 ### 🎨 Frontend
