@@ -1,5 +1,6 @@
 
-![Uploading fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels.gif…]()
+
+![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/84aa4e50-f06a-4bc7-981d-279b4d6a731f)
 
 
 <h1 align="center">👋 Hi, I’m <b>Yassine</b></h1>
