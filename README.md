@@ -1,5 +1,6 @@
 
-![Carmen Sandiego Computer GIF by Xbox](https://github.com/user-attachments/assets/b7576f4d-caef-4256-8169-932b02a50fb8)
+![Uploading fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels.gif…]()
+
 
 <h1 align="center">👋 Hi, I’m <b>Yassine</b></h1>
 ---
