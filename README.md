@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Yassine;A+Passionate++Web+Developpement;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Yassine;A+Passionat+about+Web+Developpement;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/84aa4e50-f06a-4bc7-981d-279b4d6a731f)
