@@ -2,9 +2,12 @@
 
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/84aa4e50-f06a-4bc7-981d-279b4d6a731f)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Yassine;A+Passionate+Web+Developer;Welcome+to+my+GitHub!&center=true&size=24">
-</p>
+<h1 align="center">
+  Hi there 
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px" style="animation: wave 2s infinite;">
+  , I’m <b>Yassine</b>
+</h1>
+
 
 
 ---
