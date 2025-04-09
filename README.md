@@ -37,11 +37,17 @@
 </p>
 
 ### 🛠️ Tools & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-%230000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-%23335A53.svg?style=for-the-badge&logo=python&logoColor=white" />
+<p align![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/fff818e4-f1f4-4b3a-a0e6-8facf20659dd)![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/![212281756-450d3ffa-9335-4b98-a965-db8a18fee927](https://github.com/user-attachments/assets/ab0977e9-8331-4735-965f-72a959026db9)
+assets/8163cc98-5eab-450e-aff4-89f4330354fe)
+![212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472](https://github.com/user-attachments/assets/2288f3fb-34f1-4e1f-b031-a662a1e05bb3)![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/user-attachments/assets/1d3535eb-565d-4026-99e6-b43b8b897ec2)![238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb](https://github.com/user-attachments/assets/52a0e06b-5c65-4![238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9](https://github.com/user-attachments/assets/0a6af961-00dd-40b9-999c-38635223cc67)
+11f-886b-fcfef9856577)![238200437-de038172-e903-4951-926c-755878deb0b4](https://gith![238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36](https://github.com/user-attachments/assets/bec503bc-f4b7-420b-9c39-ccf93247ac6d)
+ub.com/user-attachments/assets/b90be596-2c58-472e-986c-b69d3cd93bf8)
+
+
+
+
+="center">
+  
 </p>
 
 ---
