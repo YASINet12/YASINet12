@@ -41,31 +41,16 @@
 
 ### 🛠️ Tools & Frameworks
 <p align="center">
-  <img src="" height="60" />
+
+![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/d0d8c33a-a259-467e-9e45-ab6a3acbc8ac)![212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b](https://github.com/user-attachments/assets/4284a056-a79b-437e-b126-5c0333186ae9)![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/5db37176-17a8-465e-96a1-ceadffe16294)
+![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/c071566a-9842-441e-856a-bc2f78747359)
+![212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472](https://github.com/user-attachments/assets/2d4126c9-12df-479c-b380-70c9a64f5478)
+![212281756-450d3ffa-9335-4b98-a965-db8a18fee927](https://github.com/user-attachments/assets/a20e62f8-dd39-4582-a4f6-3d516e5a3bef)
+![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/user-attachments/assets/68a6cf22-5e53-4a8e-8f3d-1af38aa30e7e)
 
 
-  
-  <img src="     ![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/8e48c9b1-7ede-480f-88ed-7fffc74c189f)
- " height="60" />
- 
-  
-  <img src="    
-  ![212257460-738ff738-247f-4445-a718-cdd0ca76e2db](https://github.com/user-attachments/assets/4bd5599b-8b11-4a06-bc29-723885ea8a04) " height="60" />
 
-  <img src="    ![212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b](https://github.com/user-attachments/assets/fb3981c6-b47f-4bf6-a2a4-88dd2220b2f1)
- " height="60" />
-  
-  <img src="   ![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/eaffd07c-87d2-45bb-93e5-ce4e7ac0a807)
-  " height="60" />
-  
-  <img src="  ![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/288d2fc4-ba52-4eca-befe-352046fcc29d)
-   " height="60" />
-  
-  <img src="    ![212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472](https://github.com/user-attachments/assets/f303b240-5d9d-4e42-97d1-565de39fc31f)
- " height="60" />
-  
-  <img src="  ![212281756-450d3ffa-9335-4b98-a965-db8a18fee927](https://github.com/user-attachments/assets/896dba0b-e75b-41ee-8cd7-9d0871211015)
-   " height="60" />
+
 </p>
 
 
