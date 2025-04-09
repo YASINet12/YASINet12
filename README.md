@@ -41,15 +41,16 @@
 
 ### 🛠️ Tools & Frameworks
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0fa3e166-3408-4d1b-b785-2d2342ac6c67/212257454.png" height="60" />
-  <img src="https://github.com/user-attachments/assets/5977916d-cf7a-40bd-a75c-14d721f49c69/212257460.png" height="60" />
-  <img src="https://github.com/user-attachments/assets/1f778345-ca13-48a1-887c-9581fb08a752/212257465.png" height="60" />
-  <img src="https://github.com/user-attachments/assets/5ac8ad0e-e769-42e0-9311-10b65e5236df/212257472.png" height="60" />
-  <img src="https://github.com/user-attachments/assets/77f8b05d-8f77-43fd-b730-5a724361df1d/212257468.png" height="60" />
-  <img src="https://github.com/user-attachments/assets/50bca5e5-21f0-422c-b07a-501914154826/212280805.png" height="60" />
-  <img src="https://github.com/user-attachments/assets/f788d4f5-be55-41b4-b9f1-60cd7781126a/212281756.png" height="60" />
-  <img src="https://github.com/user-attachments/assets/eae3324c-b67a-493c-add5-dbe38dcb2219/212281775.png" height="60" />
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/0fa3e166-3408-4d1b-b785-2d2342ac6c67/212257454.png" height="60" />
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/5977916d-cf7a-40bd-a75c-14d721f49c69/212257460.png" height="60" />
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/1f778345-ca13-48a1-887c-9581fb08a752/212257465.png" height="60" />
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/5ac8ad0e-e769-42e0-9311-10b65e5236df/212257472.png" height="60" />
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/77f8b05d-8f77-43fd-b730-5a724361df1d/212257468.png" height="60" />
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/50bca5e5-21f0-422c-b07a-501914154826/212280805.png" height="60" />
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/f788d4f5-be55-41b4-b9f1-60cd7781126a/212281756.png" height="60" />
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/eae3324c-b67a-493c-add5-dbe38dcb2219/212281775.png" height="60" />
 </p>
+
 
 
 ---
