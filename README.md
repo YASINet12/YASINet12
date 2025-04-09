@@ -5,7 +5,6 @@
 
 <h1 align="center">👋 Hi, I’m <b>Yassine</b></h1>
 ---
-https://img.shields.io/endpoint
 
   ## 🌍 Passionate About Web Development
 <p align="center">
