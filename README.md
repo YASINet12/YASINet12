@@ -41,14 +41,31 @@
 
 ### 🛠️ Tools & Frameworks
 <p align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/0fa3e166-3408-4d1b-b785-2d2342ac6c67/212257454.png" height="60" />
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/5977916d-cf7a-40bd-a75c-14d721f49c69/212257460.png" height="60" />
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/1f778345-ca13-48a1-887c-9581fb08a752/212257465.png" height="60" />
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/5ac8ad0e-e769-42e0-9311-10b65e5236df/212257472.png" height="60" />
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/77f8b05d-8f77-43fd-b730-5a724361df1d/212257468.png" height="60" />
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/50bca5e5-21f0-422c-b07a-501914154826/212280805.png" height="60" />
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/f788d4f5-be55-41b4-b9f1-60cd7781126a/212281756.png" height="60" />
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/eae3324c-b67a-493c-add5-dbe38dcb2219/212281775.png" height="60" />
+  <img src="" height="60" />
+
+
+  
+  <img src="     ![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/8e48c9b1-7ede-480f-88ed-7fffc74c189f)
+ " height="60" />
+ 
+  
+  <img src="    
+  ![212257460-738ff738-247f-4445-a718-cdd0ca76e2db](https://github.com/user-attachments/assets/4bd5599b-8b11-4a06-bc29-723885ea8a04) " height="60" />
+
+  <img src="    ![212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b](https://github.com/user-attachments/assets/fb3981c6-b47f-4bf6-a2a4-88dd2220b2f1)
+ " height="60" />
+  
+  <img src="   ![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/eaffd07c-87d2-45bb-93e5-ce4e7ac0a807)
+  " height="60" />
+  
+  <img src="  ![212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2](https://github.com/user-attachments/assets/288d2fc4-ba52-4eca-befe-352046fcc29d)
+   " height="60" />
+  
+  <img src="    ![212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472](https://github.com/user-attachments/assets/f303b240-5d9d-4e42-97d1-565de39fc31f)
+ " height="60" />
+  
+  <img src="  ![212281756-450d3ffa-9335-4b98-a965-db8a18fee927](https://github.com/user-attachments/assets/896dba0b-e75b-41ee-8cd7-9d0871211015)
+   " height="60" />
 </p>
 
 
