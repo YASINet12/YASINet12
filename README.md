@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Yassine;A+Passionat++Web+Developpement;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
-
 ---
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/8864a0b8-172c-4377-9acc-5c482f62365b)
 
