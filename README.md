@@ -1,10 +1,9 @@
 
 <p align="center">
- ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/72b0e979-58d1-46ef-a1df-b08fa4f17633)
+![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/2655bd85-2570-4fc0-b349-1249d5445a95)
+
 
 </p>
----
-![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/8864a0b8-172c-4377-9acc-5c482f62365b)
 
 ## 🌍 Passionate About Web Development
 <p align="center">
