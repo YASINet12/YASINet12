@@ -1,9 +1,8 @@
 
-<p align="center">
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/2655bd85-2570-4fc0-b349-1249d5445a95)
 
 
-</p>
+
 
 ## 🌍 Passionate About Web Development
 <p align="center">
