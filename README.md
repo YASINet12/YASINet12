@@ -74,7 +74,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YassineET&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineET&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineET&layout=compact&theme=radical&hide=tsql,hack,scss,cmake" alt="Top Languages" />
 </p>
 
 ---
