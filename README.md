@@ -14,7 +14,7 @@
 </p>
 
 ---
-[https://img.shields.io/github/stars/<user>](https://img.shields.io/github/stars/henriquesebastiao)
+
 ## 🔧 Technologies & Tools
 
 ### 🎨 Frontend
