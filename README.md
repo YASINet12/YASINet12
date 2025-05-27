@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+I'm+Yassine;Passionate+about+Web+Development;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
+
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/dc198dfb-a39c-4ef2-8c26-45ff9ab4087b)
 
 ## 🌍 Passionate About Web Development
