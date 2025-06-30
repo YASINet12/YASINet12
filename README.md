@@ -90,8 +90,9 @@
 
 
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="250px" />
 </p>
 
 
