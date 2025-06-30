@@ -90,8 +90,9 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigorgtic/profile-readme-generator/main/public/assets/game.svg" width="300px" />
+  <img src="https://media.giphy.com/media/NS7BOx3R8Cq3FzGy4d/giphy.gif" width="150px" alt="Pixel Hero">
 </p>
+
 
 
 
