@@ -14,7 +14,7 @@
   🔥 <b>Let’s build something great together!</b>
 </p>
 
-![visitors](https://komarev.com/ghpvc/?username=YassineGitHubUsername&color=blue&style=flat-square)
+
 
 
 ---
@@ -71,6 +71,12 @@
 </p>
 
 ---
+
+![visitors](https://komarev.com/ghpvc/?username=YassineGitHubUsername&color=blue&style=flat-square)
+
+
+![snake gif](https://github.com/YassineGitHubUsername/YassineGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📈 GitHub Stats
 <p align="center">
