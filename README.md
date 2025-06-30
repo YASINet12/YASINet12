@@ -82,6 +82,12 @@
 </p>
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCVp3v4sS3Z6jTi/giphy.gif" width="300px" alt="GameBoy Start">
+</p>
+
+
+
 
 
 ## 📈 GitHub Stats
