@@ -89,9 +89,11 @@
 </p>
 
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/NS7BOx3R8Cq3FzGy4d/giphy.gif" width="150px" alt="Pixel Hero">
+  <img src="https://media.giphy.com/media/8UGo3YV4TUEl1v3Xva/giphy.gif" width="300px" />
 </p>
+
 
 
 
