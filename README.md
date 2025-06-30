@@ -75,9 +75,12 @@
 ![visitors](https://komarev.com/ghpvc/?username=YassineGitHubUsername&color=blue&style=flat-square)
 
 
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CatalinPit/catalinpit/master/assets/pacman.svg" alt="Pacman eating dots" width="300" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
 
 
 
