@@ -89,6 +89,12 @@
 </p>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigorgtic/profile-readme-generator/main/public/assets/game.svg" width="300px" />
+</p>
+
+
+
 
 
 
