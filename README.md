@@ -91,7 +91,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SvQ7tWn8zeY2k/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="400" />
 </p>
 
 
