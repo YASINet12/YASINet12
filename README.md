@@ -74,10 +74,6 @@
 ![visitors](https://komarev.com/ghpvc/?username=YassineGitHubUsername&color=blue&style=flat-square)
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400px" alt="Matrix Code">
-</p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
