@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full-Stack%20Developer&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descSize=16&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=passionat-with%20Developement&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descSize=16&descAlignY=55" />
 </div>
 
 <div align="center">
   <h1>🚀 YASSINE ET TAHERY 🚀</h1>
-  <h2>💫 Full-Stack Architect 💫</h2>
-  <h3>🌟 Mobile Innovation Expert 🌟</h3>
+  <h2>💫 Full-Stack / mobile developpment 💫</h2>
+  <h3>🌟 Mobile Innovation  🌟</h3>
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
   
 ### 🌐 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,typescript,javascript,html,css,tailwind,bootstrap,sass,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,typescript,javascript,html,css,tailwind,bootstrap" />
 </p>
 
 ### 📱 **Mobile**
@@ -41,7 +41,7 @@
 
 ### ⚡ **Backend & Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,express,django,fastapi,mongodb,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,express,django,fastapi,mongodb,mysql,postgresql," />
 </p>
 
 ### 🎨 **Design & Tools**
@@ -51,7 +51,7 @@
 
 ### ☁️ **Cloud & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,ubuntu,bash" />
+  <img src="https://skillicons.dev/icons?nginx,linux,ubuntu,bash" />
 </p>
 
 </div>
