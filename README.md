@@ -1,6 +1,6 @@
 # <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=👋+Salut%2C+je+suis+Yassine;💻+Développeur+Web+Passionné;🚀+Toujours+en+train+d'apprendre;✨+Construisons+ensemble+l'avenir!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=+Salut%2C+je+suis+Yassine;💻+Développeur+Web+Passionné;🚀+Toujours+en+train+d'apprendre;✨+Construisons+ensemble+l'avenir!" alt="Typing SVG" />
 
 </div>
 
