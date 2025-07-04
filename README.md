@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=passionat-with%20Developement&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descSize=16&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgreen&height=200&section=header&text=passionat-with%20Developement&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descSize=16&descAlignY=55" />
 </div>
 
 <div align="center">
-  <h1>🚀 YASSINE ET TAHERY 🚀</h1>
-  <h2>💫 Full-Stack / mobile developpment 💫</h2>
-  <h3>🌟 Mobile Innovation  🌟</h3>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&height=70&lines=🚀+YASSINE+ET+TAHERY+🚀;💫+Full-Stack+Developer+💫;🌟+Mobile+Innovator+🌟" alt="Typing SVG" />
+  </h1>
 </div>
 
 <div align="center">
@@ -48,7 +48,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,vscode,postman" />
 </p>
-
 
 </div>
 
@@ -142,5 +141,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgreen&height=120&section=footer&animation=fadeIn" />
 </div>
