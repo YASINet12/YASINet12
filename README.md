@@ -22,13 +22,7 @@
 
 <div align="center">
 
-## 🌟 À propos de moi
 
-<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 👨‍💻 Yassine Et-Tahery
-
-**Développeur Web Passionné | Étudiant en Développement Digital**
 
 ---
 
