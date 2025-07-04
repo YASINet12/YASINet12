@@ -49,10 +49,6 @@
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,vscode,postman" />
 </p>
 
-### ☁️ **Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?nginx,linux,ubuntu,bash" />
-</p>
 
 </div>
 
