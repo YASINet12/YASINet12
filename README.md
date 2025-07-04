@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d1a4b2c7-2c3c-4c1e-9c3a-2b8e8c1f6d5e" width="100%" />
+</div>
+
+<div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=🚀+YASSINE+ET+TAHERY+🚀;💫+Full-Stack+Architect+💫;🌟+Mobile+Innovation+🌟" alt="Header Animation" />
   </h1>
@@ -10,6 +14,10 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&duration=4000&pause=1000&color=90EE90&center=true&vCenter=true&width=700&lines=From+Rabat%2C+Morocco+🇲🇦;Passionate+Digital+Creator+✨;Transforming+Ideas+Into+Reality+🎯" alt="Subtitle Animation" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a5f7a8f9-6f34-4c9c-9f3a-1b8e8c1f6d5e" width="100%" />
 </div>
 
 ---
