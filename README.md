@@ -22,6 +22,7 @@
 ## 🔧 Technologies & Tools
 
 ### 🎨 Frontend
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,6 +31,7 @@
 </p>
 
 ### ⚙️ Backend
+
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,12 +39,14 @@
 </p>
 
 ### 🗄️ Databases
+
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & Frameworks
+
 <p align="center">
   <img src="https://github.com/YASINet12/assets/blob/main/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="30" alt="HTML" /> &nbsp;&nbsp;
   <img src="https://github.com/YASINet12/assets/blob/main/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="30" alt="CSS" /> &nbsp;&nbsp;
@@ -105,10 +109,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yasine-et-tahery-159790324/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>  
+  </a>
   <a href="https://github.com/YassineET" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>  
+  </a>
 </p>
 
 ---
