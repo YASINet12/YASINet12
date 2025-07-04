@@ -1,6 +1,26 @@
 # <div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=👋+Salut%2C+je+suis+Yassine;💻+Développeur+Web+Passionné;🚀+Toujours+en+train+d'apprendre;✨+Construisons+ensemble+l'avenir!" alt="Typing SVG" />
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Yassine%20Et-Tahery&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Développeur%20Web%20Passionné&descAlignY=65&descSize=20)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=👋+Salut%2C+je+suis+Yassine;💻+Développeur+Web+Passionné;🚀+Toujours+en+train+d'apprendre;✨+Construisons+ensemble+l'avenir!;🌟+Innovation+%26+Créativité;🎯+Passion+pour+le+code!" alt="Typing SVG" />
+
+<div align="center">
+
+### 🌟 Bienvenue dans mon univers digital ! 🌟
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=YassineET&color=blueviolet&style=for-the-badge&label=Visiteurs)](https://github.com/YassineET)
+[![GitHub followers](https://img.shields.io/github/followers/YassineET?label=Followers&style=for-the-badge&color=blue)](https://github.com/YassineET)
+[![GitHub stars](https://img.shields.io/github/stars/YassineET?label=Stars&style=for-the-badge&color=yellow)](https://github.com/YassineET)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
