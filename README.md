@@ -5,7 +5,7 @@
 <div align="center">
   <h1>🚀 YASSINE ET TAHERY 🚀</h1>
   <h2>💫 Full-Stack Architect 💫</h2>
-  <h3>🌟 Mobile Innovation 🌟</h3>
+  <h3>🌟 Mobile Innovation Expert 🌟</h3>
 </div>
 
 <div align="center">
@@ -17,8 +17,8 @@
 ---
 
 <div align="center">
-  <h2>🎯 Ma Mission</h2>
-  <p><strong>💡 "Transformer des idées en expériences digitales exceptionnelles"</strong></p>
+  <h2>🎯 My Mission</h2>
+  <p><strong>💡 "Transforming ideas into exceptional digital experiences"</strong></p>
   <p>🌐 Building Tomorrow's Digital Solutions Today</p>
   <p>🚀 Innovation | Performance | Excellence</p>
 </div>
@@ -30,16 +30,29 @@
 <div align="center">
   
 ### 🌐 **Frontend**
-**React • Vue • Next.js • Nuxt • TypeScript • JavaScript • HTML • CSS • Tailwind • Bootstrap • Sass • Material-UI**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,typescript,javascript,html,css,tailwind,bootstrap,sass,materialui" />
+</p>
 
 ### 📱 **Mobile**
-**React Native • Flutter • Swift • Kotlin • Android • iOS • Firebase**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin,androidstudio,firebase" />
+</p>
 
 ### ⚡ **Backend & Database**
-**Node.js • Python • PHP • Express • Django • FastAPI • MongoDB • MySQL • PostgreSQL • Redis • Docker • AWS**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,express,django,fastapi,mongodb,mysql,postgresql,redis" />
+</p>
 
 ### 🎨 **Design & Tools**
-**Figma • Photoshop • Illustrator • Git • GitHub • VS Code • Postman • Notion**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,vscode,postman" />
+</p>
+
+### ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,ubuntu,bash" />
+</p>
 
 </div>
 
@@ -58,7 +71,7 @@
 
 ---
 
-## 🚀 **Expertise**
+## 🚀 **Areas of Expertise**
 
 <div align="center">
   <table>
@@ -66,18 +79,22 @@
       <td align="center">
         <h3>💻</h3>
         <strong>Web Development</strong>
+        <p>React, Vue, Next.js</p>
       </td>
       <td align="center">
         <h3>📱</h3>
         <strong>Mobile Apps</strong>
+        <p>React Native, Flutter</p>
       </td>
       <td align="center">
         <h3>🎨</h3>
         <strong>UI/UX Design</strong>
+        <p>Figma, Modern Design</p>
       </td>
       <td align="center">
         <h3>⚡</h3>
         <strong>Backend Systems</strong>
+        <p>Node.js, Python, APIs</p>
       </td>
     </tr>
   </table>
@@ -89,10 +106,10 @@
 
 <div align="center">
   <p>🔥 <strong>Advanced React & Next.js Architecture</strong></p>
-  <p>📱 <strong>React Native & Flutter Performance</strong></p>
-  <p>⚡ <strong>Node.js Microservices & GraphQL</strong></p>
+  <p>📱 <strong>React Native & Flutter Performance Optimization</strong></p>
+  <p>⚡ <strong>Node.js Microservices & GraphQL APIs</strong></p>
   <p>🎨 <strong>Modern UI/UX Design Systems</strong></p>
-  <p>🚀 <strong>Cloud Architecture & DevOps</strong></p>
+  <p>🚀 <strong>Cloud Architecture & DevOps Solutions</strong></p>
   <p>💡 <strong>AI Integration & Machine Learning</strong></p>
 </div>
 
@@ -105,20 +122,18 @@
   
   <p>
     <a href="https://www.linkedin.com/in/yasine-et-tahery-159790324/" target="_blank">
-      <strong>LinkedIn</strong>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    |
     <a href="https://github.com/YassineET" target="_blank">
-      <strong>GitHub</strong>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    |
     <a href="mailto:yassine.ettahery@gmail.com" target="_blank">
-      <strong>Email</strong>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YassineET&color=blue&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=YassineET&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   </p>
 </div>
 
