@@ -18,19 +18,49 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 <div align="center">
-
-🎯 **Passionné par le développement web**  
-📚 **Étudiant en Développement Digital**  
-🤝 **Ouvert aux collaborations & nouveaux défis**  
-🔥 **Construisons quelque chose de génial ensemble !**  
-🌍 **Basé à Casablanca, Maroc** 🇲🇦
+  
+<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 </div>
 
-<br clear="both"/>
+<div align="center">
+
+### 👨‍💻 Yassine Et-Tahery
+
+**Développeur Web Passionné | Étudiant en Développement Digital**
+
+---
+
+🎯 **Ma Mission :** Créer des expériences web exceptionnelles et innovantes  
+📚 **Mon Parcours :** Actuellement en formation en Développement Digital  
+🌟 **Ma Passion :** Transformer des idées en solutions digitales concrètes  
+🤝 **Mon Approche :** Collaboration, créativité et amélioration continue  
+🔥 **Mon Objectif :** Maîtriser les technologies modernes du web  
+🌍 **Ma Base :** Casablanca, Maroc 🇲🇦  
+💡 **Ma Philosophie :** "Code avec passion, apprend avec curiosité !"
+
+---
+
+### 🎨 Ce que je fais
+
+**Frontend Development** - Création d'interfaces utilisateur modernes et responsives  
+**Backend Development** - Développement d'APIs robustes et sécurisées  
+**Database Management** - Conception et optimisation de bases de données  
+**Problem Solving** - Résolution créative de défis techniques complexes  
+**Continuous Learning** - Veille technologique et apprentissage permanent  
+
+---
+
+### 🚀 Mes objectifs actuels
+
+- 🎯 Maîtriser React.js et ses écosystèmes  
+- 🐍 Approfondir Flask et les frameworks Python  
+- 📊 Apprendre l'intégration d'APIs avancées  
+- ⚙️ Découvrir les bases du DevOps  
+- 🎨 Développer mes compétences en UI/UX  
+
+</div>
 
 ---
 
