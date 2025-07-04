@@ -1,139 +1,118 @@
-<!-- Haut avec capsule + vague SVG -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgreen&height=200&section=header&text=Passionate%20with%20Development&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descSize=16&descAlignY=55" />
-  <img src="https://raw.githubusercontent.com/YassineET/assets/main/top-wave.svg" alt="top wave" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Yassine;Passionate+about+Web+Development;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&height=70&lines=🚀+YASSINE+ET+TAHERY+🚀;💫+Full-Stack+Developer+💫;🌟+Mobile+Innovator+🌟" alt="Typing SVG" />
-  </h1>
-</div>
-
-<div align="center">
-  <p><strong>From Rabat, Morocco 🇲🇦</strong></p>
-  <p>Passionate Digital Creator ✨</p>
-  <p>Transforming Ideas Into Reality 🎯</p>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc198dfb-a39c-4ef2-8c26-45ff9ab4087b" width="100%" />
+</p>
 
 ---
 
-<div align="center">
-  <h2>🎯 My Mission</h2>
-  <p><strong>💡 "Transforming ideas into exceptional digital experiences"</strong></p>
-  <p>🌐 Building Tomorrow's Digital Solutions Today</p>
-  <p>🚀 Innovation | Performance | Excellence</p>
-</div>
+## 🌍 About Me
+
+<p align="center">
+  🎯 <b>Exploring the world of Web Development</b><br>
+  📚 <b>Currently learning Digital Development</b><br>
+  🤝 <b>Open to collaborations & new challenges</b><br>
+  🔥 <b>Let’s build something great together!</b>
+</p>
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🔧 Technologies & Tools
 
-<div align="center">
+### 🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### 🌐 **Frontend**
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,typescript,javascript,html,css,tailwind,bootstrap" />
+### ⚙️ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
-### 📱 **Mobile**
-<img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin,androidstudio,firebase" />
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-### ⚡ **Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,python,php,express,django,fastapi,mongodb,mysql,postgresql" />
-
-### 🎨 **Design & Tools**
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,vscode,postman" />
-
-</div>
+### 🛠️ Tools & Frameworks
+<p align="center">
+  <img src="https://github.com/YASINet12/assets/blob/main/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="30" alt="HTML" /> &nbsp;&nbsp;
+  <img src="https://github.com/YASINet12/assets/blob/main/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="30" alt="CSS" /> &nbsp;&nbsp;
+  <img src="https://github.com/YASINet12/assets/blob/main/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="30" alt="GitHub" /> &nbsp;&nbsp;
+  <img src="https://github.com/YASINet12/assets/blob/main/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="30" alt="Python" /> &nbsp;&nbsp;
+  <img src="https://github.com/YASINet12/assets/blob/main/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="30" alt="Bootstrap" /> &nbsp;&nbsp;
+  <img src="https://github.com/YASINet12/assets/blob/main/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="30" alt="JS" /> &nbsp;&nbsp;
+  <img src="https://github.com/YASINet12/assets/blob/main/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" height="30" alt="PHP" /> &nbsp;&nbsp;
+  <img src="https://github.com/YASINet12/assets/blob/main/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height="30" alt="MySQL" />
+</p>
 
 ---
 
-## 📊 **GitHub Stats**
+## ⚡ Problem-Solving & Optimization
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassineET&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineET&layout=compact&theme=tokyonight" />
+<p align="center">
+  ✔️ <b>Learning Data Structures & Algorithms</b><br>
+  ✔️ <b>Practicing Optimized SQL Queries</b><br>
+  ✔️ <b>Focusing on Code Performance & Efficiency</b>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+<p align="center">
+  🧩 React.js & Next.js | 🐍 Flask & Python | 📊 API Integration | ⚙️ DevOps Basics | 🎨 UI/UX Design
+</p>
+
+---
+
+![visitors](https://komarev.com/ghpvc/?username=YassineET&color=blue&style=flat-square)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YassineET&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineET&theme=tokyonight" alt="GitHub Streak" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineET&layout=compact&theme=radical&hide=tsql,hack,scss,cmake" alt="Top Languages" />
+</p>
 
 ---
 
-## 🚀 **Areas of Expertise**
+## 💬 Ask Me About
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>💻</h3>
-        <strong>Web Development</strong>
-        <p>React, Vue, Next.js</p>
-      </td>
-      <td align="center">
-        <h3>📱</h3>
-        <strong>Mobile Apps</strong>
-        <p>React Native, Flutter</p>
-      </td>
-      <td align="center">
-        <h3>🎨</h3>
-        <strong>UI/UX Design</strong>
-        <p>Figma, Modern Design</p>
-      </td>
-      <td align="center">
-        <h3>⚡</h3>
-        <strong>Backend Systems</strong>
-        <p>Node.js, Python, APIs</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  💻 Web Development | 🧠 Problem Solving | 🚀 Freelance Projects | 🎯 Learning Strategies
+</p>
 
 ---
 
-## 🎯 **Current Focus**
+## 🎯 Let's Connect!
 
-<div align="center">
-  <p>🔥 <strong>Advanced React & Next.js Architecture</strong></p>
-  <p>📱 <strong>React Native & Flutter Performance Optimization</strong></p>
-  <p>⚡ <strong>Node.js Microservices & GraphQL APIs</strong></p>
-  <p>🎨 <strong>Modern UI/UX Design Systems</strong></p>
-  <p>🚀 <strong>Cloud Architecture & DevOps Solutions</strong></p>
-  <p>💡 <strong>AI Integration & Machine Learning</strong></p>
-</div>
-
----
-
-## 🌟 **Let's Connect**
-
-<div align="center">
-  <h3>💼 Ready for your next digital transformation?</h3>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/yasine-et-tahery-159790324/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/YassineET" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:yassine.ettahery@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YassineET&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  </p>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasine-et-tahery-159790324/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>  
+  <a href="https://github.com/YassineET" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>  
+</p>
 
 ---
 
-<div align="center">
-  <h3>✨ Ready to build something amazing?</h3>
-  <h3>🚀 Let's create the future together!</h3>
-  <h3>💫 Innovation starts with a conversation!</h3>
-</div>
-
-<!-- Bas avec SVG animé + capsule -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YassineET/assets/main/bottom-wave.svg" alt="bottom wave" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgreen&height=120&section=footer&animation=twinkling" />
-</div>
+<p align="center">
+  ✨ <b>"Code with passion, learn with curiosity!"</b> ✨
+</p>
