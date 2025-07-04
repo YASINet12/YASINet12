@@ -1,5 +1,7 @@
+<!-- Haut avec capsule + vague SVG -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgreen&height=200&section=header&text=passionat-with%20Developement&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descSize=16&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgreen&height=200&section=header&text=Passionate%20with%20Development&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descSize=16&descAlignY=55" />
+  <img src="https://raw.githubusercontent.com/YassineET/assets/main/top-wave.svg" alt="top wave" />
 </div>
 
 <div align="center">
@@ -28,26 +30,18 @@
 ## 🛠️ **Tech Stack**
 
 <div align="center">
-  
+
 ### 🌐 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,typescript,javascript,html,css,tailwind,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,typescript,javascript,html,css,tailwind,bootstrap" />
 
 ### 📱 **Mobile**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin,androidstudio,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin,androidstudio,firebase" />
 
 ### ⚡ **Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,express,django,fastapi,mongodb,mysql,postgresql," />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,express,django,fastapi,mongodb,mysql,postgresql" />
 
 ### 🎨 **Design & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,vscode,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,vscode,postman" />
 
 </div>
 
@@ -58,9 +52,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassineET&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineET&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineET&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -140,6 +132,8 @@
   <h3>💫 Innovation starts with a conversation!</h3>
 </div>
 
+<!-- Bas avec SVG animé + capsule -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/YassineET/assets/main/bottom-wave.svg" alt="bottom wave" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgreen&height=120&section=footer&animation=twinkling" />
 </div>
