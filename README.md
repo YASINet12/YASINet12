@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgreen&height=200&section=header&text=passionat-with%20Developement&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descSize=16&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgreen&height=200&section=header&text=passionat-with%20Developement&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descSize=16&descAlignY=55" />
 </div>
 
 <div align="center">
@@ -141,5 +141,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgreen&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=lightgreen&height=120&section=footer&animation=twinkling" />
 </div>
