@@ -1,61 +1,117 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px"> **About Me**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Yassine+Et+Tahery;Mobile+%26+Full-Stack+Developer;Digital+Innovation+Creator;From+Rabat%2C+Morocco+🇲🇦" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Yassine+Et+Tahery;Passionate+Mobile+Developer;Full-Stack+Enthusiast;Creating+Digital+Magic+✨" alt="Typing Animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img align="right" alt="Creative Developer" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</div>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
 
-### 🚀 **Developer Profile**
+### 🚀 **Developer Passionate Profile**
 
 ```javascript
-const developer = {
+const passionateDeveloper = {
     name: "Yassine Et Tahery",
-    role: "Mobile & Full-Stack Developer",
+    title: "Mobile & Full-Stack Developer",
     location: "Rabat, Morocco 🇲🇦",
-    experience: "3+ Years of Innovation",
+    experience: "3+ Years of Pure Passion",
     
     passion: {
-        mobile: "📱 Creating seamless iOS & Android experiences",
-        fullStack: "🌐 Building complete web solutions",
-        design: "🎨 Crafting beautiful user interfaces",
-        innovation: "💡 Solving real-world problems"
+        mobile: "📱 Crafting amazing mobile experiences",
+        fullStack: "🌐 Building complete digital solutions",
+        ui_ux: "🎨 Designing beautiful interfaces",
+        learning: "📚 Always exploring new technologies"
     },
     
-    currentFocus: [
-        "React Native & Flutter Apps",
-        "Modern Web Technologies", 
-        "User-Centered Design",
-        "Performance Optimization"
+    dailyMotivation: [
+        "☕ Coffee + Code = Magic",
+        "📱 Mobile apps that users love",
+        "🌐 Web solutions that work perfectly",
+        "🎨 Beautiful designs that inspire",
+        "🚀 Deploy and celebrate success"
     ],
     
-    philosophy: "Every line of code should create value ✨"
+    currentObsession: [
+        "React Native perfection",
+        "Flutter innovations",
+        "Modern web technologies",
+        "User experience magic"
+    ],
+    
+    lifePhilosophy: "Passionate about every line of code I write! 💖",
+    
+    dream: "Building apps that change lives",
+    
+    getMotivation: function() {
+        return "Every project is a new adventure! 🌟";
+    }
 };
 
-console.log("Ready to build amazing digital experiences! 🚀");
+// Ready to create something amazing together! 🚀
+console.log(passionateDeveloper.getMotivation());
 ```
 
 </div>
 
+</div>
+
 ---
 
 <div align="center">
 
-### 🎯 **What Drives Me**
+### 💫 **What Fuels My Passion**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=FF6B9D&center=true&vCenter=true&width=800&lines=📱+Passionate+about+Mobile+Development;🌐+Full-Stack+Architecture+Expert;🎨+UI%2FUX+Design+Enthusiast;💡+Problem+Solver+%26+Innovator" alt="Passion Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1200&color=FF6B9D&center=true&vCenter=true&width=900&lines=📱+Mobile+Development+is+my+first+love;🌐+Full-Stack+solutions+are+my+playground;🎨+Beautiful+UI%2FUX+is+my+art;💡+Problem+solving+is+my+superpower" alt="Passion Animation" />
 
-<div style="background: linear-gradient(45deg, #FF6B9D 0%, #00D9FF 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+</div>
 
-**"Transforming ideas into powerful digital solutions that make a difference in people's lives"**
+---
 
-🔥 **Mobile-First Mindset** | 🌟 **Full-Stack Excellence** | 🎨 **Design Thinking** | 🚀 **Innovation Focus**
+<div align="center">
+
+<div style="background: linear-gradient(45deg, #FF6B9D 0%, #00D9FF 100%); padding: 25px; border-radius: 15px; margin: 20px 0;">
+
+### 🔥 **My Development Passion Stack**
+
+```python
+class PassionateDeveloper:
+    def __init__(self):
+        self.name = "Yassine Et Tahery"
+        self.passion_level = "🔥 MAXIMUM"
+        self.loves_most = ["Mobile Apps", "Web Solutions", "Clean Code"]
+        
+    def mobile_passion(self):
+        return {
+            "react_native": "❤️ My favorite framework",
+            "flutter": "🚀 Lightning fast development",
+            "native_ios": "🍎 Swift & beautiful",
+            "native_android": "🤖 Kotlin power"
+        }
+    
+    def fullstack_passion(self):
+        return {
+            "frontend": "✨ Making it beautiful",
+            "backend": "⚡ Making it powerful", 
+            "database": "📊 Making it efficient",
+            "deployment": "🚀 Making it live"
+        }
+    
+    def daily_routine(self):
+        return [
+            "Wake up excited to code 🌅",
+            "Coffee + Creative coding ☕",
+            "Build something awesome 🛠️",
+            "Test, improve, repeat 🔄",
+            "Go to bed planning tomorrow's features 🌙"
+        ]
+
+# Creating digital magic every day! ✨
+developer = PassionateDeveloper()
+print("Passion level:", developer.passion_level)
+```
 
 </div>
 
@@ -63,50 +119,34 @@ console.log("Ready to build amazing digital experiences! 🚀");
 
 ---
 
-### 💫 **My Development Journey**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**📱 Mobile Development**
-- React Native & Flutter
-- iOS (Swift) & Android (Kotlin)
-- Cross-platform solutions
-- App Store optimization
-
-</td>
-<td align="center" width="50%">
-
-**🌐 Full-Stack Development**
-- React, Vue, Angular
-- Node.js & Express
-- Database design
-- API development
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
-### 🌟 **Current Mission**
+### 🌟 **Passionate About Impact**
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0;">
 
-**Building the next generation of mobile and web applications**
+```typescript
+interface PassionateImpact {
+    apps_created: number;
+    users_reached: number;
+    problems_solved: number;
+    smiles_created: number;
+}
 
-📊 **50+ Apps Developed** | 👥 **15K+ Users Reached** | ⭐ **98% Client Satisfaction**
+const myImpact: PassionateImpact = {
+    apps_created: 50+,
+    users_reached: 15000+,
+    problems_solved: 100+,
+    smiles_created: "∞"
+};
+
+// My mission: Creating digital experiences that matter! 🎯
+const mission = "Every app I build should make someone's life better";
+```
 
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+create+something+amazing+together!;Ready+for+your+next+project%3F;Innovation+starts+here+🚀" alt="CTA Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Let's+build+something+incredible+together!;Your+idea+%2B+My+passion+%3D+Amazing+results!;Ready+to+start+our+next+adventure%3F+🚀" alt="CTA Animation" />
 
 </div>
 
