@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Yassine%20Et-Tahery&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Développeur%20Web%20Passionné&descAlignY=65&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Yassine%20ET-TAHERY&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Développeur%20Web%20Passionné&descAlignY=65&descSize=20)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=👋+Salut%2C+je+suis+Yassine;💻+Développeur+Web+Passionné;🚀+Toujours+en+train+d'apprendre;✨+Construisons+ensemble+l'avenir!;🌟+Innovation+%26+Créativité;🎯+Passion+pour+le+code!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=👋+Salut%2C+je+suis+Yassine;💻+Développeur+Web+Passionné;🚀+Toujours+en+train+d'apprendre;+Construisons+ensemble+l'avenir!;🌟+Innovation+%26+Créativité;🎯+Passion+pour+le+code!" alt="Typing SVG" />
 
 ### 🌟 Bienvenue dans mon univers digital ! 🌟
 
