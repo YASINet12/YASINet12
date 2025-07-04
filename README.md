@@ -4,7 +4,6 @@
 
 </h1>    
 
-
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/dc198dfb-a39c-4ef2-8c26-45ff9ab4087b)
 
 ## 🌍 Passionate About Web Development
@@ -39,13 +38,11 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
+---
 ### 🛠️ Tools & Frameworks
 <p align="center">
-  
   <img src="https://github.com/YASINet12/assets/blob/main/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="60" />
   <img src="https://github.com/YASINet12/assets/blob/main/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="60" />
-
   <img src="https://github.com/YASINet12/assets/blob/main/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="60" />
   <img src="https://github.com/YASINet12/assets/blob/main/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="60" />
   <img src="https://github.com/YASINet12/assets/blob/main/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="60" />
