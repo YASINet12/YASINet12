@@ -31,7 +31,7 @@
 🌟 **My Passion:** Transform ideas into concrete digital solutions  
 🤝 **My Approach:** Collaboration, creativity, and continuous improvement  
 🔥 **My Goal:** Master modern web technologies  
-🌍 **My Base:** Casablanca, Morocco 🇲🇦  
+🌍 **My Base:** Rabat, Morocco 🇲🇦  
 💡 **My Philosophy:** "Code with passion, learn with curiosity!"
 
 ---
