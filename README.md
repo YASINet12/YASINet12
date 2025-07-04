@@ -1,6 +1,6 @@
 # <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=+Salut%2C+je+suis+Yassine;💻+Développeur+Web+Passionné;🚀+Toujours+en+train+d'apprendre;✨+Construisons+ensemble+l'avenir!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=👋+Salut%2C+je+suis+Yassine;💻+Développeur+Web+Passionné;🚀+Toujours+en+train+d'apprendre;✨+Construisons+ensemble+l'avenir!" alt="Typing SVG" />
 
 </div>
 
@@ -20,11 +20,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<div align="center">
+
 🎯 **Passionné par le développement web**  
 📚 **Étudiant en Développement Digital**  
 🤝 **Ouvert aux collaborations & nouveaux défis**  
 🔥 **Construisons quelque chose de génial ensemble !**  
 🌍 **Basé à Casablanca, Maroc** 🇲🇦
+
+</div>
 
 <br clear="both"/>
 
@@ -95,10 +99,14 @@
 
 </div>
 
+<div align="center">
+
 ✅ **Structures de données & Algorithmes**  
 ✅ **Optimisation des requêtes MySQL**  
 ✅ **Performance & Efficacité du code**  
 ✅ **Résolution de problèmes créative**  
+
+</div>  
 
 ---
 
