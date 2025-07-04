@@ -1,124 +1,118 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Yassine%20Et%20Tahery&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Full-Stack%20Developer%20%7C%20Digital%20Architect%20%7C%20Innovation%20Catalyst&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,18,11&height=300&section=header&text=Yassine%20Et%20Tahery&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Passionate%20Mobile%20%26%20Full-Stack%20Developer%20%7C%20Digital%20Innovation%20Creator&descAlignY=55&descSize=22" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚀+Welcome+to+my+Digital+Universe;📱+Mobile+%26+Full-Stack+Developer;💫+Crafting+Digital+Experiences+Since+2023;🌐+Building+Tomorrow's+Applications+Today;⚡+Let's+Code+Something+Revolutionary!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=🚀+Welcome+to+My+Creative+Universe;📱+Mobile+%26+Full-Stack+Developer;💎+Crafting+Digital+Masterpieces;🌟+Transforming+Ideas+into+Reality;⚡+Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Mobile+Development+%7C+iOS+%26+Android;Full-Stack+Web+Development;UI%2FUX+Design+%26+System+Architecture;Cloud+Solutions+%26+DevOps;API+Development+%26+Integration" alt="Skills Animation" />
+<div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=📱+iOS+%26+Android+Native+Development;🌐+React+%7C+Vue+%7C+Angular+%7C+Next.js;🎨+UI%2FUX+Design+%26+Creative+Solutions;🔥+Building+User-Centered+Experiences" alt="Skills Animation" />
+</div>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"> **About Me**
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px"> **About Me**
 
-<img align="right" alt="Mobile Developer" width="450" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<div align="center">
+  <img align="right" alt="Creative Developer" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</div>
 
-```javascript
-const yassineDeveloper = {
+```typescript
+const passionateDeveloper = {
     name: "Yassine Et Tahery",
     title: "Mobile & Full-Stack Developer",
     location: "Rabat, Morocco 🇲🇦",
-    experience: "3+ Years",
-    specialization: [
-        "📱 Mobile Development (iOS & Android)",
-        "🌐 Full-Stack Web Development", 
-        "☁️ Cloud Architecture & DevOps",
-        "🎨 UI/UX Design & Prototyping"
+    experience: "3+ Years of Innovation",
+    passion: [
+        "📱 Mobile App Development",
+        "🌐 Full-Stack Web Solutions", 
+        "🎨 Creative UI/UX Design",
+        "💡 Problem-Solving Innovation"
     ],
     
-    currentMission: "Building scalable mobile & web solutions",
+    currentMission: "Creating seamless digital experiences that inspire and engage users",
     
-    techPhilosophy: {
-        mobile: "User experience is everything",
-        backend: "Scalability meets performance",
-        frontend: "Beauty meets functionality",
-        approach: "Clean code, clean architecture"
+    philosophy: {
+        mobile: "Every tap should feel magical ✨",
+        fullStack: "Performance meets beauty 🎨",
+        design: "User experience is everything 💫",
+        code: "Clean, scalable, and maintainable 🚀"
     },
     
-    dailyRoutine: () => {
+    dailyWorkflow: () => {
         return [
-            "☕ Coffee++",
-            "📱 Mobile Development",
-            "🌐 Full-Stack Coding", 
+            "☕ Coffee & Creative Energy",
+            "📱 Mobile App Development",
+            "🌐 Full-Stack Architecture", 
             "🎨 UI/UX Design",
-            "🚀 Deploy & Scale",
-            "📚 Learn New Tech"
+            "🚀 Deploy & Iterate",
+            "📚 Continuous Learning"
         ];
     },
     
-    motto: "From concept to deployment, creating digital experiences that matter ✨"
+    passion: "Passionate about creating digital solutions that make a difference! 💖"
 };
 
-console.log("Ready to build the future! 🚀");
+console.log("Ready to build amazing experiences! 🚀");
 ```
 
-### 🎯 **Current Focus & Objectives**
-- 📱 Mastering **React Native** & **Flutter** for cross-platform excellence
-- 🔥 Building **Progressive Web Apps (PWA)** with modern frameworks
-- ☁️ Exploring **Microservices Architecture** & **Serverless Computing**
-- 🤖 Integrating **AI/ML** capabilities into mobile applications
-- 🎨 Crafting **Design Systems** for consistent user experiences
-- 🌐 Contributing to **Open Source** projects that impact developers worldwide
+### 🎯 **My Mission & Vision**
+- 📱 **Mobile First**: Creating intuitive native and cross-platform mobile applications
+- 🌐 **Full-Stack Excellence**: Building complete web solutions from concept to deployment
+- 🎨 **Design Thinking**: Focusing on user-centered design and seamless experiences
+- 💡 **Innovation**: Constantly exploring new technologies and creative solutions
+- 🌍 **Impact**: Developing applications that solve real-world problems and enhance lives
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> **Tech Arsenal & Expertise**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"> **Technical Expertise**
 
 <div align="center">
 
-### 📱 **Mobile Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,dart,flutter,react" alt="Mobile Skills" />
-  <br>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
 
-### 🎨 **Frontend Mastery**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs" alt="Frontend Skills" />
-  <br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-</p>
+### 📱 **Mobile Development Mastery**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&logoWidth=25" />
+</div>
 
-### ⚙️ **Backend Power**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,express,fastapi,laravel,spring" alt="Backend Skills" />
-  <br>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-</p>
+### 🎨 **Frontend Innovation**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=25" />
+</div>
 
-### 🗄️ **Database & Storage**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,supabase" alt="Database Skills" />
-  <br>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
-</p>
+### ⚡ **Backend & Database**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=25" />
+</div>
 
-### ☁️ **Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins" alt="Cloud Skills" />
-  <br>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+### 🛠️ **Development Tools**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&logoWidth=25" />
+</div>
 
-### 🛠️ **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,xcode,figma,photoshop" alt="Tools Skills" />
-  <br>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
+</div>
 
 </div>
 
@@ -127,16 +121,16 @@ console.log("Ready to build the future! 🚀");
 ## 📊 **GitHub Analytics & Performance**
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=YassineET&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B6B&text_color=C9D1D9&border_radius=15"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineET&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&border_radius=15&langs_count=8"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=YassineET&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=C9D1D9&border_radius=20&custom_title=My%20GitHub%20Journey"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineET&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=20&langs_count=8&custom_title=Language%20Expertise"/>
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineET&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B9D&fire=00D9FF&currStreakLabel=FF6B9D&border_radius=20&custom_title=Coding%20Streak" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineET&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF6B6B&fire=00F5FF&currStreakLabel=FF6B6B&border_radius=15" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassineET&bg_color=0D1117&color=00F5FF&line=FF6B6B&point=00F5FF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=15" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassineET&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=00D9FF&area=true&hide_border=true&custom_title=Development%20Activity%20Timeline&radius=20" alt="Activity Graph" />
 </div>
 
 ---
@@ -144,167 +138,126 @@ console.log("Ready to build the future! 🚀");
 ## 🏆 **Achievements & Recognition**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YassineET&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,PullRequest" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YassineET&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&border_radius=15" alt="WakaTime stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YassineET&theme=tokyonight&no-frame=true&column=4&margin-w=20&margin-h=20&title=MultiLanguage,Commits,Repositories,Stars,Issues,PullRequest&row=2" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🚀 **Featured Projects & Portfolio**
+## 💻 **Development Focus & Expertise**
 
 <div align="center">
 
-### 📱 **Mobile Applications**
-[![Mobile App 1](https://github-readme-stats.vercel.app/api/pin/?username=YassineET&repo=react-native-ecommerce&theme=radical&hide_border=true&bg_color=0D1117&border_radius=15)](https://github.com/YassineET/react-native-ecommerce)
-[![Mobile App 2](https://github-readme-stats.vercel.app/api/pin/?username=YassineET&repo=flutter-social-app&theme=radical&hide_border=true&bg_color=0D1117&border_radius=15)](https://github.com/YassineET/flutter-social-app)
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
 
-### 🌐 **Full-Stack Projects**
-[![Web App 1](https://github-readme-stats.vercel.app/api/pin/?username=YassineET&repo=mern-project-manager&theme=radical&hide_border=true&bg_color=0D1117&border_radius=15)](https://github.com/YassineET/mern-project-manager)
-[![Web App 2](https://github-readme-stats.vercel.app/api/pin/?username=YassineET&repo=nextjs-dashboard&theme=radical&hide_border=true&bg_color=0D1117&border_radius=15)](https://github.com/YassineET/nextjs-dashboard)
-
-</div>
-
----
-
-## 💻 **Development Metrics & Activity**
-
-<div align="center">
-
-### 📈 **Weekly Development Breakdown**
+### 🎯 **Mobile Development Specialization**
 ```text
-📱 Mobile Development:
-React Native  ████████████████████▓   92.5%
-Flutter       ████████████████▓▓▓▓   78.3%
-Swift/Kotlin  ████████████▓▓▓▓▓▓▓▓   65.7%
+📱 Cross-Platform Excellence:
+React Native      ████████████████████▓   95.2%
+Flutter           ████████████████▓▓▓▓   82.7%
+Swift/iOS         ████████████████▓▓▓▓   78.4%
+Kotlin/Android    ███████████████▓▓▓▓▓   73.9%
 
-🌐 Full-Stack Development:
-JavaScript/TS ████████████████████▓   95.8%
-Python        ████████████████▓▓▓▓   82.1%
-PHP           ████████████▓▓▓▓▓▓▓▓   68.4%
-Java          ██████████▓▓▓▓▓▓▓▓▓▓   55.2%
-
-🎨 Frontend & Design:
-React/Next.js ████████████████████▓   89.6%
-Vue.js        ████████████▓▓▓▓▓▓▓▓   63.7%
-CSS/SCSS      ████████████▓▓▓▓▓▓▓▓   71.8%
-
-☁️ Cloud & DevOps:
-AWS/GCP       ████████████▓▓▓▓▓▓▓▓   67.3%
-Docker        ████████████▓▓▓▓▓▓▓▓   72.9%
-Kubernetes    ████████▓▓▓▓▓▓▓▓▓▓▓▓   48.1%
+🔥 Mobile Features Mastery:
+Push Notifications █████████████████████   98.1%
+Real-time Chat     ████████████████████▓   91.6%
+Payment Integration ████████████████████▓   89.3%
+Camera & Media     ██████████████████▓▓▓   85.7%
+Location Services  ████████████████▓▓▓▓   79.2%
 ```
 
-### 🔥 **This Week's Highlights**
-- 📱 **3 Mobile Apps** deployed to App Store & Play Store
-- 🌐 **5 Full-Stack Projects** completed and delivered
-- ☁️ **2 Cloud Solutions** migrated to microservices
-- 🎨 **4 UI/UX Designs** created and implemented
+### 🌐 **Full-Stack Development Excellence**
+```text
+🎨 Frontend Technologies:
+React Ecosystem   ████████████████████▓   94.8%
+Vue.js            ████████████████▓▓▓▓   81.5%
+Angular           ███████████████▓▓▓▓▓   74.2%
+Next.js           ████████████████████▓   88.7%
+
+⚡ Backend & Database:
+Node.js/Express   ████████████████████▓   92.4%
+Python/FastAPI    ████████████████▓▓▓▓   83.6%
+PHP/Laravel       ███████████████▓▓▓▓▓   72.8%
+Database Design   ████████████████████▓   90.1%
+```
+
+### 🎨 **Design & User Experience**
+```text
+🎨 UI/UX Excellence:
+Figma Design      ████████████████████▓   93.7%
+Responsive Design ████████████████████▓   96.3%
+Design Systems    ████████████████▓▓▓▓   86.9%
+User Research     ███████████████▓▓▓▓▓   78.1%
+```
+
+</div>
 
 </div>
 
 ---
 
-## 🎯 **Skills & Expertise Deep Dive**
-
-<details>
-<summary><b>📱 Mobile Development Mastery</b></summary>
-<br>
-
-**Cross-Platform Excellence**
-- 📱 **React Native** - Advanced navigation, state management, native modules
-- 🦋 **Flutter** - Widget customization, state management (Bloc, Provider), animations
-- 🍎 **iOS Development** - Swift, UIKit, SwiftUI, Core Data, push notifications
-- 🤖 **Android Development** - Kotlin, Jetpack Compose, Room, Firebase integration
-
-**Mobile-Specific Features**
-- 🔔 Push notifications & real-time messaging
-- 📍 Location services & geofencing
-- 📷 Camera integration & image processing
-- 💳 Payment gateway integration
-- 🔐 Biometric authentication
-- 📱 App Store optimization & deployment
-
-</details>
-
-<details>
-<summary><b>🌐 Full-Stack Development Excellence</b></summary>
-<br>
-
-**Frontend Mastery**
-- ⚛️ **React Ecosystem** - Hooks, Context API, Redux Toolkit, React Query
-- 🖼️ **Modern CSS** - Flexbox, Grid, Animations, Responsive Design
-- 🎨 **Design Systems** - Component libraries, Storybook, Figma to code
-- 🚀 **Performance** - Code splitting, lazy loading, bundle optimization
-
-**Backend Architecture**
-- 🏗️ **API Design** - RESTful services, GraphQL, WebSocket connections
-- 🔧 **Microservices** - Service decomposition, inter-service communication
-- 🗄️ **Database Design** - SQL optimization, NoSQL modeling, caching strategies
-- 🔐 **Security** - Authentication, authorization, data encryption
-
-**DevOps & Cloud**
-- ☁️ **Cloud Platforms** - AWS, GCP, Azure deployment and management
-- 🐳 **Containerization** - Docker, Kubernetes orchestration
-- 🔄 **CI/CD** - Automated testing, deployment pipelines
-- 📊 **Monitoring** - Application performance, error tracking
-
-</details>
-
-<details>
-<summary><b>🎨 UI/UX Design & System Architecture</b></summary>
-<br>
-
-**Design Excellence**
-- 🎨 **UI Design** - Modern interfaces, design systems, prototyping
-- 👥 **UX Research** - User journey mapping, usability testing
-- 📱 **Responsive Design** - Mobile-first approach, cross-device consistency
-- 🎨  **Accessibility** - WCAG compliance, inclusive design principles
-
-**System Architecture**
-- 🏛️ **Architecture Patterns** - MVC, MVVM, Clean Architecture
-- 🔧 **Scalability** - Horizontal scaling, load balancing
-- 🛡️ **Security** - Best practices, vulnerability assessment
-- 📈 **Performance** - Code optimization, database tuning
-
-</details>
-
----
-
-## 🌟 **Let's Connect & Build Together**
+## 🌟 **Professional Highlights**
 
 <div align="center">
 
-### 💬 **Ready to collaborate on your next big project?**
+<div style="background: linear-gradient(135deg, #FF6B9D 0%, #00D9FF 100%); padding: 25px; border-radius: 20px; margin: 20px 0;">
+
+### 🚀 **Current Impact & Achievements**
+- 📱 **50+ Mobile Applications** successfully developed and deployed
+- 🌐 **75+ Full-Stack Solutions** delivered with excellence
+- 👥 **15K+ Users** experiencing my applications daily
+- ⭐ **98% Client Satisfaction** rate across all projects
+- 🏆 **5 Apps Featured** on App Store and Play Store
+- 💡 **Innovation Award** for mobile user experience design
+
+### 🎯 **Specialization Areas**
+- 📱 **Native & Cross-Platform Mobile Development**
+- 🌐 **Progressive Web Applications (PWA)**
+- 🎨 **UI/UX Design & Prototyping**
+- 🔥 **Real-time Applications & Chat Systems**
+- 💳 **E-commerce & Payment Integration**
+- 🤝 **API Development & Integration**
+
+</div>
+
+</div>
+
+---
+
+## 🌟 **Let's Connect & Create Together**
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**"Innovation happens when mobile meets web, and dreams meet code" 🚀**
+### 💫 **Ready to bring your ideas to life?**
 
-<p>
+<div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
+
+**"Passionate about creating digital experiences that inspire and engage users worldwide" 🚀**
+
+<p style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/yasine-et-tahery-159790324/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" />
   </a>
   <a href="https://github.com/YassineET" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" alt="GitHub" />
   </a>
   <a href="mailto:yassine.ettahery@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Email" />
   </a>
   <a href="https://yassine-portfolio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=20" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/YassineET_Dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=30" alt="Portfolio" />
   </a>
 </p>
 
+</div>
+
 ### 📊 **Profile Analytics**
-[![Profile Views](https://komarev.com/ghpvc/?username=YassineET&color=00F5FF&style=for-the-badge&label=Profile+Views)](https://github.com/YassineET)
-[![Followers](https://img.shields.io/github/followers/YassineET?style=for-the-badge&color=FF6B6B&labelColor=000000)](https://github.com/YassineET?tab=followers)
-[![Stars](https://img.shields.io/github/stars/YassineET?style=for-the-badge&color=00F5FF&labelColor=000000)](https://github.com/YassineET?tab=repositories)
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=YassineET&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YassineET?style=for-the-badge&color=FF6B9D&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/YassineET?style=for-the-badge&color=00D9FF&labelColor=000000" alt="Stars" />
+</div>
 
 </div>
 
@@ -312,45 +265,46 @@ Kubernetes    ████████▓▓▓▓▓▓▓▓▓▓▓▓   48.
 
 <div align="center">
 
-### 🎵 **Currently Vibing To While Coding**
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yassine-et-tahery)
-
-### 🐍 **Watch My Contribution Snake**
+### 🐍 **Contribution Activity**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YassineET/YassineET/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YassineET/YassineET/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YassineET/YassineET/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 📱 **Mobile & Full-Stack Development Stats**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YassineET&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&border_radius=15&layout=compact" alt="Coding Time" />
+### ⚡ **Fun Facts & Passions**
+<div style="background: linear-gradient(135deg, #FF6B9D 0%, #00D9FF 50%, #667eea 100%); padding: 25px; border-radius: 20px; margin: 20px 0;">
 
-### ⚡ **Fun Facts About Me**
-- 📱 Built my first mobile app at 16 and got featured on the App Store
-- 🎮 When not coding, I'm probably gaming or exploring new AR/VR tech
-- 🌍 Passionate about creating apps that solve real-world problems
-- 🎯 Goal: Launch a startup that revolutionizes mobile user experience
-- 🧠 Always learning: Currently exploring AI integration in mobile apps
-- 🎨 Side hobby: Creating digital art and UI animations
-- 🌱 Advocate for sustainable coding practices and green technology
+- 📱 **First Mobile App** developed at age 16 - featured on App Store!
+- 🎨 **Design Enthusiast** - I create UI/UX designs that tell stories
+- 🌍 **Global Impact** - Apps used by people in 25+ countries
+- 💡 **Innovation Mindset** - Always exploring cutting-edge technologies
+- 🎯 **Goal-Driven** - Aiming to launch my own mobile app startup
+- 🎮 **Gaming Passion** - When not coding, I'm exploring AR/VR worlds
+- 🌱 **Sustainability** - Advocate for eco-friendly development practices
 
-### 🔥 **Current Achievements**
-- 🏆 **50+ Mobile Apps** developed and deployed
-- 🌐 **100+ Full-Stack Projects** completed
-- 👥 **10K+ Users** impacted by my applications
-- ⭐ **500+ GitHub Stars** across repositories
-- 🎯 **95% Client Satisfaction** rate
-- 🚀 **3 Apps** featured on App Store
+</div>
+
+### 🔥 **Current Mission**
+<div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+
+**Building the next generation of mobile and web applications that create meaningful connections and solve real-world problems**
+
+</div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💡 **Available for Exciting Opportunities**
-**Mobile Development | Full-Stack Solutions | Technical Consulting | UI/UX Design**
+**Mobile App Development | Full-Stack Solutions | UI/UX Design | Technical Consulting**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,18,11&height=120&section=footer&animation=fadeIn" />
 
-**"Let's build the future together, one line of code at a time! 🚀✨"**
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+
+**"Passionate about turning innovative ideas into exceptional digital experiences! 🚀💫"**
+
+</div>
 
 </div>
