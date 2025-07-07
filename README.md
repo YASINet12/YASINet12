@@ -24,8 +24,6 @@
 
 <div align="center">
 
-
-
 ---
 
 🎯 **My Mission:** Create exceptional and innovative web experiences  
