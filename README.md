@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Yassine;💻+Passionate+Web+Developer;+Always+Learning;+Let's+Build+the+Future+Together!;🌟+Innovation+%26+Creativity;🎯+Passion+for+Code!" alt="Typing SVG" />
 
 
+
 ### 🌟 Welcome to my digital universe! 🌟
 
 
