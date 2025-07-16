@@ -1,5 +1,6 @@
 <div align="center">
 
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Yassine%20ET-TAHERY&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Passionate%20Web%20Developer&descAlignY=65&descSize=20)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Yassine;💻+Passionate+Web+Developer;+Always+Learning;+Let's+Build+the+Future+Together!;🌟+Innovation+%26+Creativity;🎯+Passion+for+Code!" alt="Typing SVG" />
