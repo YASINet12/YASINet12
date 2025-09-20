@@ -158,19 +158,6 @@
 
 ---
 
-## 📊 **Development Stats & Metrics**
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=YassineET&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=00F5FF&text_color=ffffff&icon_color=FF6B9D&border_radius=15&card_width=400" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineET&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=ffffff&border_radius=15&card_width=300&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YassineET&theme=transparent&hide_border=true&background=00000000&currStreakLabel=00F5FF&sideLabels=FF6B9D&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&fire=FFA726&ring=4ECDC4&border_radius=15" />
-</div>
-
----
-
 ## 🏗️ **Mobile Project Portfolio**
 
 <div align="center">
