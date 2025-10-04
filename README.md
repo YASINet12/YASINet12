@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20&height=320&section=header&text=Yassine%20ET-TAHERY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=📱%20Mobile-First%20Developer%20%7C%20🎨%20Digital%20Designer&descAlignY=60&descSize=16" alt="Mobile-First Developer" />
 </div>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=📱+Mobile-First+Development;🌐+Responsive+Web+Design;🎨+UI%2FUX+Mobile+Specialist;⚡+React+Native+%7C+Flutter;🚀+Next.js+Mobile+Optimized" alt="Mobile Developer" />
 </p>
