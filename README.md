@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=Yassine%20ET-TAHERY&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Full-Stack%20Mobile%20%26%20Web%20Developer%20%7C%20🎨%20UI/UX%20Artist&descAlignY=55&descSize=20" />
+
 </div>
 
 <p align="center">
